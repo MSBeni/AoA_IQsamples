@@ -1,0 +1,7 @@
+construct==2.9.45
+websockets==7.0
+pyserial==3.4
+windows-curses==1.0
+PySide2==5.12.0
+-e ./rtls
+-e ./unpi

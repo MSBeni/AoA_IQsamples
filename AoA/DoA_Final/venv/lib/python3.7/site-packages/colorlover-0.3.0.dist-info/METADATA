@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: colorlover
+Version: 0.3.0
+Summary: Color scales for IPython notebook
+Home-page: https://github.com/jackparmer/colorlover
+Author: Jack Parmer
+Author-email: jack@plot.ly
+License: UNKNOWN
+Keywords: ipython notebook,color scales
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+
+UNKNOWN
+
+
