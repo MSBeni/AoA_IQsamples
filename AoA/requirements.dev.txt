@@ -1,5 +1,5 @@
 construct==2.9.45
-websockets==7.0
+websockets==9.1
 pyserial==3.4
 windows-curses==1.0
 PySide2==5.12.0
